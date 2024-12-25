@@ -5,7 +5,7 @@ export default function ImageSwitcher() {
             <div className="grid sm:grid-cols-2 items-start gap-14 p-8 mx-auto max-w-4xl bg-teal-300 
             shadow-[0_2px_10px_-3px_rgba(6,81,237,0.3)] rounded-md font-[sans-serif]">
                 <div>
-                    <h1 className="text-black tracking-wide text-4xl font-extrabold">Let's Talk</h1>
+                    <h1 className="text-black tracking-wide text-4xl font-extrabold">Let&apos;s Talk</h1>
                     <p className="text-lg text-dark2 font-sans capitalize tracking-wider leading-8 mt-4">
                         we are waiting for your response.fill the form and plan a meeting with
                         us.

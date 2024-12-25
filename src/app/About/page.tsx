@@ -21,14 +21,14 @@ export default function AboutPage() {
             About Me
           </h1>
           <p className="text-base sm:text-lg text-gray-300 text-center md:text-left">
-            Hi, I'm{" "}
+            Hi, I&apos;m{" "}
             <span className="text-teal-100 font-semibold tracking-wider">MHamzazai</span>, a
             passionate full-stack developer with a knack for building responsive
             and user-friendly web applications. I specialize in technologies
             like Next.js, Tailwind CSS, and React.
           </p>
           <p className="text-base sm:text-lg text-gray-300 text-center md:text-left">
-            When I'm not coding, you can find me exploring new technologies,
+            When I&apos;m not coding, you can find me exploring new technologies,
             contributing to open-source projects, or sipping coffee while
             brainstorming the next big idea.
           </p>
